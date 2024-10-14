@@ -12,3 +12,4 @@ C:\Users\Elitebook 1040 G3\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\r
 C:\Users\Elitebook 1040 G3\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.pdb
 C:\Users\Elitebook 1040 G3\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
 C:\Users\Elitebook 1040 G3\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\ref\Formatting.dll
+C:\Users\Elitebook 1040 G3\Downloads\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.sourcelink.json

@@ -13,7 +13,13 @@ if (!File.Exists(filename)) {
 
 
 // TODO 4: A FileStream can be opened and written to until closed
+using (StreamWriter sw = filename.AppendText(filename)) {
+    sw.WriteLine()
+}
 
 
 // TODO 2: ReadAllText reads all the content from a file
+string content;
+content = filename.ReadAllText(filename);
+Console.WriteLine(content);
 
