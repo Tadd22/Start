@@ -1,0 +1,4 @@
+C:\Users\Elitebook 1040 G3\Downloads\Start\NumbersDates\obj\Debug\net8.0\NumbersDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elitebook 1040 G3\Downloads\Start\NumbersDates\obj\Debug\net8.0\NumbersDates.AssemblyInfoInputs.cache
+C:\Users\Elitebook 1040 G3\Downloads\Start\NumbersDates\obj\Debug\net8.0\NumbersDates.AssemblyInfo.cs
+C:\Users\Elitebook 1040 G3\Downloads\Start\NumbersDates\obj\Debug\net8.0\NumbersDates.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yL9I4F+rE0hZrMHWMHAzqH/W315s30o9tDm4FGsk3rZNaEzTDHy5lqO14tMSF9A0O8eyPAykDaPyn1iE6KWb2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elitebook 1040 G3\\Downloads\\Start\\Strings\\Formatting\\Formatting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elitebook 1040 G3\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Elitebook 1040 G3\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Elitebook 1040 G3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Elitebook 1040 G3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
